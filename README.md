@@ -19,5 +19,5 @@ The whole template is built with
 
 👤 **La Pyae**
 
-- Github: [GitHub]https://github.com/lapyaet)
+- Github: [GitHub](https://github.com/lapyaet)
 - Facebook: [Twitter](https://www.facebook.com/profile.php?id=100011639205218)
